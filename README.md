@@ -1,2 +1,2 @@
-# Runner
+# Runner Game
 Runner demo game
